@@ -1,0 +1,69 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Judhaditya Biswas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    header, footer {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #4CAF50;
+    }
+    a {
+      color: #1a0dab;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact-links a {
+      display: block;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Judhaditya Biswas' Website</h1>
+  </header>  <div class="container">
+    <section id="home">
+      <h2>Home</h2>
+      <p><strong>Name:</strong> Judhaditya Biswas</p>
+      <p><strong>Status:</strong> A student</p>
+      <p><strong>Location:</strong> Duttapukur, India</p>
+    </section><section id="about">
+  <h2>About</h2>
+  <p>Learn more about me on my <a href="https://g.co/kgs/TE3JRg5" target="_blank">Google profile</a>.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <div class="contact-links">
+    <a href="https://wa.me/message/UITVZNH2EG4ZC1" target="_blank">WhatsApp पर j को मैसेज भेजें</a>
+    <a href="https://www.facebook.com/profile.php?id=61554699925942&mibextid=rS40aB7S9Ucbxw6v" target="_blank">Facebook Profile</a>
+  </div>
+</section>
+
+  </div>  <footer>
+    <p>&copy; 2025 Judhaditya Biswas. All rights reserved.</p>
+  </footer>
+</body>
+</html>
